@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ExamenCaso1-CincoHisamy</string>
+    <string name="welcome">Welcome to the Cheezery!</string>
+    <string name="welcome_text">Home of the most wonderful dessert ever seen (and tasted) by the human being</string>
+    <string name="activity_main_button">Get Started!</string>
+    <string name="our_menu">OUR MENU</string>
+    <string name="cold_drinks">COLD DRINKS</string>
+    <string name="hot_drinks">HOT DRINKS</string>
+    <string name="sweets">SWEETS</string>
+    <string name="salties">SALTIES</string>
 </resources>
